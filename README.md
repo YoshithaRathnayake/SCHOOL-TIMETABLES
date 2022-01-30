@@ -1,6 +1,6 @@
 # <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/School_Timetables.html"><b><i>WELCOME!, TO MY SCHOOL TIMETABLES</i></b></a></div> 
 
-> This is the Set of Buttons that I made using Javascript Programming Language
+> This is My School Timetable that I made using CSS Tables
 
 # <div align="center"><img src="Images/St. Anthony's College Kandy (Logo).png" width="300px"></div>
 
