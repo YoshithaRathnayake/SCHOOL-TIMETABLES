@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/School_Timetables.html"><b><i>WELCOME!, TO MY SCHOOL TIMETABLES</i></b></a></div> 
+# <div align="center"><a href="https://yoshitharathnayake.github.io/School-Timetables/"><b><i>WELCOME!, TO MY SCHOOL TIMETABLES</i></b></a></div> 
 
 > This is My School Timetable that I made using <b><i>[HTML Tables](https://www.w3schools.com/html/html_tables.asp)</i></b>
 
