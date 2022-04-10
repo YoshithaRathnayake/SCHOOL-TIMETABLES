@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.github.io/School-Timetables/"><b><i>WELCOME!, TO MY SCHOOL TIMETABLES</i></b></a></div> 
+# <div align="center"><a href="https://yoshitharathnayake.github.io/SCHOOL-TIMETABLES"><b><i>WELCOME!, TO MY SCHOOL TIMETABLES</i></b></a></div> 
 
 > This is My School Timetable that I made using <b><i>[HTML Tables](https://www.w3schools.com/html/html_tables.asp)</i></b>
 
@@ -12,7 +12,7 @@
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
-Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/School_Timetables](https://yoshitharathnayake.w3spaces.com/School_Timetables)</i></b>
+Available at :  <b><i>[https://yoshitharathnayake.github.io/SCHOOL-TIMETABLES](https://yoshitharathnayake.github.io/SCHOOL-TIMETABLES)</i></b>
 
 #
 # Run Locally
