@@ -20,8 +20,8 @@ Available at :  <b><i>[https://yoshitharathnayake.github.io/SCHOOL-TIMETABLES](h
 - Clone your forked repository
     
     ```
-    git clone https://github.com/USERNAME/School-Timetables.git
-    cd School-Timetables
+    git clone https://github.com/USERNAME/SCHOOL-TIMETABLES.git
+    cd SCHOOL-TIMETABLES
     ```
      
 #
