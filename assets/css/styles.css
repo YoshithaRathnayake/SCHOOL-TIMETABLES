@@ -1,10 +1,13 @@
 /* Background Image */
+
 body {
     background-image: url("https://th.bing.com/th/id/OIP.V7igWk5ny4YyZekozm9zewHaF7?pid=ImgDet&rs=1");
     background-size: cover;
 }
 
+
 /* Table Aligns */
+
 table,
 td,
 th {
@@ -20,7 +23,9 @@ th {
     padding: 20px;
 }
 
+
 /* Letter Animation */
+
 .myclass {
     animation: rainbow 5s infinite;
     color: #e60000;
